@@ -2,7 +2,7 @@
 
 В этом *репозитории* хранятся **файлы** с тестовыми `данными` для работы с ~~ГИС~~ цифровой географией.
 
-На [карте](https://github.com/nevmenandr/geotest/blob/master/map.geojson) отражены:
+На [карте](https://github.com/rita7798/DH-surveys/blob/master/map.geojson) отражены:
 
 * Корпус НИУ ВШЭ на Ст. Басманной
 * Корпус НИУ ВШЭ на Мясницкой
